@@ -14,7 +14,7 @@ This framework automatically:
 ## 📁 Project Structure
 
 ```
-/home/claude/
+/home/st34/vision23/
 ├── generate_test_video.py          # Creates synthetic test video
 ├── camera_motion_simulator.py      # Applies camera motion transformations
 ├── vlm_camera_motion_tester.py     # Generic VLM testing framework
