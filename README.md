@@ -192,7 +192,6 @@ For issues or questions:
 ## 🎓 Further Reading
 
 - [Understanding Camera Movements](https://www.studiobinder.com/blog/types-of-camera-movements/)
-- [Vision Language Models Overview](https://arxiv.org/abs/2304.10592)
 - [Video Understanding Benchmarks](https://paperswithcode.com/task/video-understanding)
 
 ---
