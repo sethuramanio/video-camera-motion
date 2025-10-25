@@ -181,14 +181,6 @@ Contributions welcome! Areas for improvement:
 
 MIT License - Feel free to use and modify
 
-## 🆘 Support
-
-For issues or questions:
-1. Check the test reports in `/home/claude/`
-2. Verify video generation with `ls -lh /home/claude/camera_motions/`
-3. Test frame extraction independently
-4. Check API key configuration
-
 ## 🎓 Further Reading
 
 - [Understanding Camera Movements](https://www.studiobinder.com/blog/types-of-camera-movements/)
